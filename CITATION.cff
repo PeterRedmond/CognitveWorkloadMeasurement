@@ -1,0 +1,12 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Workload Measurement During Blended Control
+message: 'If you use this software, please cite it as below.'
+type: software
+authors:
+  - given-names: Peter
+    family-names: Redmond
+    email: peter.redmond6@mail.dcu.ie
+    orcid: 'https://orcid.org/0000-0002-1980-3618'
